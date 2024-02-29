@@ -15,5 +15,5 @@ A* Search is a best-first search algorithm that uses a heuristic function to est
 
 ## Contributors
 
-- [Yaniv Ben-David](https://github.com/bendayaniv)
-- [Daniel Ben-Avi](https://github.com/DanielBenAvi)
+- [Yaniv Ben-David](https://github.com/bendayaniv) - 316498468
+- [Daniel Ben-Avi](https://github.com/DanielBenAvi) - 207005448
