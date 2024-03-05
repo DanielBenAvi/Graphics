@@ -1,4 +1,4 @@
-# Task 2
+# Path finding algorithms
 
 Implemantation of path finding algorithms
 
